@@ -1,0 +1,4 @@
+PyAudio==0.2.14
+vosk==0.3.45
+git+https://github.com/Circuit-Digest/LiteWing-Library.git
+git+https://github.com/Circuit-Digest/crazyflie-lib-python.git

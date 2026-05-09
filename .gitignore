@@ -1,0 +1,24 @@
+# Python virtual environments
+venv/
+.venv/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.cache/
+.ipynb_checkpoints/
+
+# IDE settings
+.vscode/
+.idea/
+
+# Project specific
+model/
+vosk-model-*/
+output.wav
+*.log
+
+# LiteWing specific
+.DS_Store
