@@ -3,7 +3,9 @@
 [![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-An offline voice control interface for the **LiteWing Drone** ecosystem. This module translates natural speech into flight commands and LED states for low-latency, hands-free operation using the Vosk engine.
+An offline voice control interface for the **LiteWing Drone** ecosystem a high-performance **ESP32-based** drone. This module translates natural speech into flight commands and LED states for low-latency, hands-free operation using the Vosk engine.
+
+For a more detailed overview of the project, visit here: [ESP32 Voice Controlled Drone using LiteWing](https://circuitdigest.com/microcontroller-projects/esp32-voice-controlled-drone-using-litewing)
 
 > [!IMPORTANT]
 > **Mandatory Hardware Requirements:**

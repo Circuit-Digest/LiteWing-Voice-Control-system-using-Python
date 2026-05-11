@@ -17,6 +17,7 @@ __pycache__/
 # Project specific
 model/
 vosk-model-*/
+cache/
 output.wav
 *.log
 
